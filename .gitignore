@@ -1,0 +1,10 @@
+# Ignore node_modules for Angular
+book_review/node_modules/
+
+# Ignore virtual environment and compiled Python files for Django
+book_reviews/venv/
+*.pyc
+__pycache__/
+
+# Ignore logs, compiled files, etc.
+*.log
